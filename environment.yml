@@ -1,0 +1,17 @@
+name: gnss-oca
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.12
+  - numpy=2.4.6
+  - pandas=3.0.3
+  - scipy=1.17.1
+  - tk=8.6.15
+  - pip
+  - requests=2.33.1
+
+  - pip:
+      - tkcalendar==1.6.1
