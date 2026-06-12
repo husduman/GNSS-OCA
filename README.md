@@ -133,9 +133,9 @@ gnss-oca
 ---
 
 ## Authors
-  * Assoc. Prof. Dr. Hüseyin Duman
-  * Prof. Dr. Salih Sermet Öğütçü
-  * Prof. Dr. Salih Alçay
+  * Huseyin Duman, Ph.D.
+  * Sermet Ogutcu, Ph.D.
+  * Salih Alcay, Ph.D.
 
 ---
 
