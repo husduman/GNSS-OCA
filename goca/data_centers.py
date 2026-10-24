@@ -126,6 +126,7 @@ DATA_CENTERS = {
                     'products': {'SP3': {'v2': False},
                                  'CLK': {'v2': False},
                                  'OBX': {'v2': False},
+                                 'BIA': {'v2': False},
                                  'ERP': {'v2': False}}}},
 
  'JGX': {'archive': ['IGN', 'CDDIS', 'WHU'],
